@@ -1,0 +1,16 @@
+AccountName, UserName, Manager, Title, Dept
+ClydeB, Clyde Bixby, , CEO, Management
+JohnH, John Holiday, ClydeB, Operations Manager, Operations
+MauriceP, Maurice Prather, ClydeB, CIO, Operations
+MattMcD, Matthew McDermott, ClydeB, IT Manager, Operations
+KeithM, Keith Moon, MattMcD, System Administrator, Operations
+SpencerR, Spencer Reed, MattMcD, Records Manager, Operations
+ScotH, Scot Hillier, ClydeB, CFO, Finance
+BernieM, Bernie Madeoff, ScotH, Accountant, Finance
+AC, Andrew Connell, ScotH, Sales Director, Sales
+ChandlerB, Chandler Bing, AC, Sales Representitive, Sales
+WilsonP, Wilson Picket, AC, Sales Representative, Sales
+TedP, Ted Pattison, ClydeB,Scientist, Research and Development
+DavidM, David Mann, TedP,Scientist, Research and Development
+GaryL, Gary Lapointe, TedP,Scientist, Research and Development
+KenS, Ken Sanchez, DavidM, Research Assistant, Research and Development
